@@ -1,0 +1,15 @@
+{
+	"profileSelect": "dev_local",
+	"contextName": "grirbpm",
+	"folder": "D:\\teamprojects\\simpleBPM1\\target\\",
+	"runningMode": "multiple",
+	"profiles": {
+		"dev_local": {
+			"login": "root",
+			"password": "root",
+			"hostname": "localhost",
+			"path": "/manager",
+			"ports": ["8080", "8081", "8082", "8083", "8084"]
+		}
+	}
+}
