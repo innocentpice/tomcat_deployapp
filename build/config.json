@@ -10,20 +10,6 @@
 			"hostname": "localhost",
 			"path": "/manager",
 			"ports": ["8080", "8081", "8082", "8083", "8084"]
-		},
-		"prod_app03": {
-			"login": "root",
-			"password": "comitd38",
-			"hostname": "10.10.1.49",
-			"path": "/manager",
-			"ports": ["8080", "8081", "8082"]
-		},
-		"prod_172_16_140": {
-			"login": "root",
-			"password": "comitd38",
-			"hostname": "172.16.1.40",
-			"path": "/manager",
-			"ports": ["8080", "8081", "8082"]
 		}
 	}
 }
